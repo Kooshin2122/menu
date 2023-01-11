@@ -1,0 +1,322 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "imageUrl": "https://images.pexels.com/photos/2679501/pexels-photo-2679501.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Rice",
+      "include": "Banana and Soap",
+      "price": 3.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Food",
+      "rating": 5.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Chicken Buger",
+      "include": "with chips and kachab",
+      "price": 2.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Food",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Espresso Coffee",
+      "include": "With No Sugar",
+      "price": 2.5,
+      "description": "Espresso Coffee is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Coffees",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Latte Coffee",
+      "include": "With No Sugar",
+      "price": 2.5,
+      "description": "Latte Coffee is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Coffees",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Limon juise",
+      "include": "With Ice",
+      "price": 1.5,
+      "description": "Limon juise is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Drinks",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://images.pexels.com/photos/2045362/pexels-photo-2045362.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Strawberry juise",
+      "include": "With Ice",
+      "price": 3.5,
+      "description": "Strawberry juise is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Drinks",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Chees musela",
+      "include": "with chips and salad",
+      "price": 3.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Food",
+      "rating": 3.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://images.pexels.com/photos/1460872/pexels-photo-1460872.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Pasta",
+      "include": "Banana and Broasto",
+      "price": 3.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Food",
+      "rating": 5.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Chicken biryani",
+      "include": "Banana and Broasto",
+      "price": 4.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Food",
+      "rating": 5.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://images.pexels.com/photos/2282532/pexels-photo-2282532.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Fish burger",
+      "include": "Chips and Miyonese",
+      "price": 2.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Food",
+      "rating": 5.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "12",
+      "imageUrl": "https://images.pexels.com/photos/764925/pexels-photo-764925.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Cheen Salad",
+      "include": "Green vigtables",
+      "price": 1,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Salad",
+      "rating": 1.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "13",
+      "imageUrl": "https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Tomato Salad",
+      "include": "Green vigtables",
+      "price": 1.5,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Salad",
+      "rating": 2.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "14",
+      "imageUrl": "https://images.pexels.com/photos/1435893/pexels-photo-1435893.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Carod Salad",
+      "include": "with chips and salad",
+      "price": 2,
+      "description": "Chicken Buger is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Salad",
+      "rating": 3.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "16",
+      "imageUrl": "https://images.pexels.com/photos/1200348/pexels-photo-1200348.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Ananas juise",
+      "include": "With Ice",
+      "price": 1.5,
+      "description": "Ananas juise is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Drinks",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "18",
+      "imageUrl": "https://images.pexels.com/photos/5817624/pexels-photo-5817624.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Mango juise",
+      "include": "With Ice",
+      "price": 1.5,
+      "description": "Mango juise is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Drinks",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "19",
+      "imageUrl": "https://images.pexels.com/photos/4443445/pexels-photo-4443445.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Carot juise",
+      "include": "With Ice",
+      "price": 1.5,
+      "description": "Carot juise is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Drinks",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "20",
+      "imageUrl": "https://images.pexels.com/photos/4955257/pexels-photo-4955257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "papaya juise",
+      "include": "With Ice",
+      "price": 1.5,
+      "description": "papaya juise is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Drinks",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "23",
+      "imageUrl": "https://images.pexels.com/photos/3879495/pexels-photo-3879495.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Cappuccino Coffee",
+      "include": "With No Sugar",
+      "price": 2.5,
+      "description": "Cappuccino Coffee is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Coffees",
+      "rating": 4.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "24",
+      "imageUrl": "https://images.pexels.com/photos/2638019/pexels-photo-2638019.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Americano Coffee",
+      "include": "With No Sugar",
+      "price": 1.5,
+      "description": "Americano Coffee is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Coffees",
+      "rating": 3.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "25",
+      "imageUrl": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Chocolatto Cake",
+      "include": "With Honey",
+      "price": 4.5,
+      "description": "Chocolatto Cake is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Sweets",
+      "rating": 3.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "26",
+      "imageUrl": "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Furulato Ice-cream",
+      "include": "With Honey",
+      "price": 4.5,
+      "description": "Furulato Ice-cream is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Sweets",
+      "rating": 1.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "27",
+      "imageUrl": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Fruit",
+      "include": "With lot vegetables",
+      "price": 4.5,
+      "description": "Fruit is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Sweets",
+      "rating": 1.5,
+      "isOnCart": false,
+      "isOnFavourite": false
+    },
+    {
+      "id": "28",
+      "imageUrl": "https://images.pexels.com/photos/1702373/pexels-photo-1702373.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Brith-day Cake",
+      "include": "with Chocolate",
+      "price": 4.5,
+      "description": "Brith-day Cake is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Sweets",
+      "rating": 19.99,
+      "isOnCart": false,
+      "isOnFavourite": false
+    }
+  ],
+  "cart": [
+    {
+      "id": "28",
+      "imageUrl": "https://images.pexels.com/photos/1702373/pexels-photo-1702373.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "name": "Brith-day Cake",
+      "include": "with Chocolate",
+      "price": 4.5,
+      "description": "Brith-day Cake is a  prepared with steamed milk, and is traditionally topped coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally coffee drink made with espresso and hot milk. It is traditionally with a small amount of foam.",
+      "category": "Sweets",
+      "rating": 19.99,
+      "isOnCart": false,
+      "isOnFavourite": false,
+      "quantity": 1
+    }
+  ],
+  "favourite": [],
+  "categories": [
+    {
+      "catId": 0,
+      "catName": "All"
+    },
+    {
+      "catId": 1,
+      "catName": "Food"
+    },
+    {
+      "catId": 2,
+      "catName": "Drinks"
+    },
+    {
+      "catId": 3,
+      "catName": "Coffees"
+    },
+    {
+      "catId": 4,
+      "catName": "Sweets"
+    },
+    {
+      "catId": 5,
+      "catName": "Salad"
+    }
+  ]
+}
